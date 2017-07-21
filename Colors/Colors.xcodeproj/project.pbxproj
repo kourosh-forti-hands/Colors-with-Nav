@@ -15,6 +15,7 @@
 		1610D3561F190DC40038665A /* ColorsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1610D3551F190DC40038665A /* ColorsUITests.swift */; };
 		1610D3661F19182F0038665A /* ColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1610D3651F19182F0038665A /* ColorsViewController.swift */; };
 		165306B11F229F2C00C4E923 /* colorStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 165306B01F229F2C00C4E923 /* colorStruct.swift */; };
+		165306B31F22AF4600C4E923 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 165306B21F22AF4600C4E923 /* ColorDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1610D3571F190DC40038665A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1610D3651F19182F0038665A /* ColorsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorsViewController.swift; sourceTree = "<group>"; };
 		165306B01F229F2C00C4E923 /* colorStruct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = colorStruct.swift; sourceTree = "<group>"; };
+		165306B21F22AF4600C4E923 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				1610D3411F190DC30038665A /* Info.plist */,
 				1610D3651F19182F0038665A /* ColorsViewController.swift */,
 				165306B01F229F2C00C4E923 /* colorStruct.swift */,
+				165306B21F22AF4600C4E923 /* ColorDetailViewController.swift */,
 			);
 			path = Colors;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				1610D3661F19182F0038665A /* ColorsViewController.swift in Sources */,
 				165306B11F229F2C00C4E923 /* colorStruct.swift in Sources */,
 				1610D3361F190DC30038665A /* AppDelegate.swift in Sources */,
+				165306B31F22AF4600C4E923 /* ColorDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
